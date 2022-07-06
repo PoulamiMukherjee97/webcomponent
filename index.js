@@ -1,3 +1,3 @@
-function print(name){
-console.log(name);
+function print(){
+console.log('Print is called');
 }
